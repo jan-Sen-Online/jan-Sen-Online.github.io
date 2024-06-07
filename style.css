@@ -7,7 +7,7 @@ h2 {
     color: rgb(10, 10, 14);
     font-family: "Nunito", sans-serif;
     text-align: center;
-    font-size: 18px
+    font-size: 20px
 }
   
 p {
@@ -15,7 +15,8 @@ p {
     font-family: "PT+Sans", sans-serif;
     margin-left: auto;
     margin-right: auto;
-    width: 30em
+    width: 30em;
+    font-size: 18px
 }
 
 body {
